@@ -7,6 +7,7 @@ This project is a professional full-stack Mini CRM application developed to mana
 ---
 
 ## 🚀 Live Demo
+ https://priyacodes-123.github.io/FUTURE_FS_02/
 
 ---
 
